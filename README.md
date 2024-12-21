@@ -1,4 +1,5 @@
-This project is done by using MERN stack for a private institute my contribution is Hall arrangement. Teachers request a time and a venue as their preference then system will update calendar, students can see the calendar and get update about their classes. # Getting Started with Create React App
+This project is done by using MERN stack for a private institute my contribution is Hall arrangement. Teachers request a time and a venue as their preference then system will update calendar, students can see the calendar and get update about their classes. 
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
